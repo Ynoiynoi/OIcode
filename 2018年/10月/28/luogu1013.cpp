@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+/*-------------------------------*/
 #define MAXN 15
 
 string s[MAXN][MAXN];
